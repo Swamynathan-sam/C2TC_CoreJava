@@ -1,5 +1,5 @@
 //wap to handle custom exceptions
-package day12Jan22_;
+package day12Jan22_Exception_Handling;
 import java.util.Scanner;
 public class Example {
 
